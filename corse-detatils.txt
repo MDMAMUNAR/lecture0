@@ -1,0 +1,13 @@
+CS50's Web Programming with Python and JavaScript
+========================================================
+Git
+HTML, CSS
+Flask
+SQL
+APIs
+JavaScript
+Front Ends
+Django
+Testing, CI/CD
+Scalability
+Security
