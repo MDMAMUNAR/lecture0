@@ -1,0 +1,21 @@
+1.git clone <url>
+2. cd [Change directory]
+3. ls [list all file my directory]
+4.touch hello.html [create hello.html new file]
+5.atom . [open the file]
+git add
+git add <file name>
+git add hello.html
+git commit -m "message"
+git commit -m "Added hello.html"
+git status
+git push
+git pull
+git marg conflict
+git log
+git reset
+- git reset --hard  <commit>
+- git reset --hard origin/master
+git reflog
+git branch
+git push --set-upstream origin feature
